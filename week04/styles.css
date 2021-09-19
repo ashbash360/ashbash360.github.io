@@ -5,7 +5,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: #fab282;
 }
 
 body {
@@ -23,13 +23,13 @@ h1, h2, h3 {
 
 p, input, li {
   font-family: 'Roboto Condensed', sans-serif;
-  color: #2a2a2a;
+  color: #black;
 }
 
 h1 {
   font-size: 4rem;
   text-align: center;
-  text-shadow: 2px 2px 10px black;
+  text-shadow: 2px 2px 10px #FF44CC;
 }
 
 h2 {
