@@ -6,6 +6,7 @@ html, body {
 html {
   font-size: 10px;
   background-color: #fab282;
+  background-image: url("heart.png");
 }
 
 body {
