@@ -8,7 +8,7 @@ var x2 = Math.floor(Math.random() * 4)
 var x3 = Math.floor(Math.random() * 4)
 
 function tellFortune (job, city, spouse, numKids){
-  document.write("You will be a "+ job + " in " + city + ", and married to " + spouse + " with " + numKids + " kids.\n");
+  document.write("You will be a "+ job + " in " + city + ", and married to " + spouse + " with " + numKids + " kids." +"<br>");
 }
 
 tellFortune (job[x1], city[x1], spouse[x1], numKids[x1])
